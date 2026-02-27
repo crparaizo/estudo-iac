@@ -1,0 +1,3 @@
+docker images
+
+socker ps
